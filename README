@@ -1,0 +1,3 @@
+How to run ping pong
+1) start the ping-pong script on the other cluster
+2) start the ping-pong script on client (not remote)
