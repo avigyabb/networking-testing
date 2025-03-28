@@ -1,3 +1,8 @@
 How to run ping pong
 1) start the ping-pong script on the other cluster
 2) start the ping-pong script on client (not remote)
+
+Counter Var:
+Execution time: 10.22 seconds
+Tunnel setup time: 2.02 seconds
+
